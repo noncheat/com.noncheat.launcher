@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Launcher</string>
+    <string name="xposed_description">Customize Pixel Launcher</string>
+    <string-array name="scope">
+        <item>com.google.android.apps.nexuslauncher</item>
+    </string-array>
+</resources>
